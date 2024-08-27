@@ -1,4 +1,3 @@
-'''
 Introduction-
 The energy consumption of urban areas is a critical parameter that 
 reflects the city's lifestyle, industrial activity, and overall energy efficiency. 
